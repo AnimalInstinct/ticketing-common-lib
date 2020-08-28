@@ -16,7 +16,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "err": "^2.1.12"
+    "@types/cookie-session": "^2.0.41",
+    "@types/express": "^4.17.7",
+    "@types/jsonwebtoken": "^8.5.0",
+    "cookie-session": "^1.4.0",
+    "err": "^2.1.12",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
     "typescript": "^4.0.2"
