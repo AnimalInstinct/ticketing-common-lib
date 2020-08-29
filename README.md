@@ -1,10 +1,14 @@
-# Cross-service requests validation and errors handling library.
+# Cross-service requests validation and errors handling library for the microservices ticketing project.
+
+[Microservices ticketing project](https://github.com/AnimalInstinct/microservices-ticketing)
 
 ## Installation
 
 ```bash
 npm i --save @alexhelloworld/common
 ```
+
+[packaje on npmjs.com](https://www.npmjs.com/package/@alexhelloworld/common)
 
 ## Using:
 
